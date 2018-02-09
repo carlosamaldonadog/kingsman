@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
 You can use the editor on GitHub https://github.com/carlosamaldonadog/kingsman/edit/master/README.md to maintain and preview the content for your website in Markdown files.
-
-Puede usar el editor en GitHub (https://github.com/carlosamaldonadog/kingsman/edit/master/README.md para mantener y obtener una vista previa del contenido de su sitio web en los archivos Markdown.
+Puede usar el editor en GitHub https://github.com/carlosamaldonadog/kingsman/edit/master/README.md para mantener y obtener una vista previa del contenido de su sitio web en los archivos Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Siempre que se comprometa con este repositorio, GitHub Pages ejecutará [Jekyll] (https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos de Markdown.
 
-### Markdown carlos++
+### Markdown carlos+2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
